@@ -1,0 +1,144 @@
+{
+    "andaman": [
+        1
+    ],
+    "nicobar": [
+        1
+    ],
+    "islands": [
+        1
+    ],
+    "andhra": [
+        2
+    ],
+    "pradesh": [
+        2,
+        3,
+        13,
+        20,
+        34
+    ],
+    "arunachal": [
+        3
+    ],
+    "assam": [
+        4
+    ],
+    "bihar": [
+        5
+    ],
+    "chandigarh": [
+        6
+    ],
+    "chhattisgarh": [
+        7
+    ],
+    "dadra": [
+        8
+    ],
+    "nagar": [
+        8
+    ],
+    "haveli": [
+        8
+    ],
+    "daman": [
+        37
+    ],
+    "diu": [
+        37
+    ],
+    "delhi": [
+        9
+    ],
+    "goa": [
+        10
+    ],
+    "gujarat": [
+        11
+    ],
+    "haryana": [
+        12
+    ],
+    "himachal": [
+        13
+    ],
+    "jammu": [
+        14
+    ],
+    "kashmir": [
+        14
+    ],
+    "jharkhand": [
+        15
+    ],
+    "karnataka": [
+        16
+    ],
+    "kerala": [
+        17
+    ],
+    "ladakh": [
+        18
+    ],
+    "lakshadweep": [
+        19
+    ],
+    "madhya": [
+        20
+    ],
+    "maharashtra": [
+        21
+    ],
+    "manipur": [
+        22
+    ],
+    "meghalaya": [
+        23
+    ],
+    "mizoram": [
+        24
+    ],
+    "nagaland": [
+        25
+    ],
+    "odisha": [
+        26
+    ],
+    "puducherry": [
+        27
+    ],
+    "punjab": [
+        28
+    ],
+    "rajasthan": [
+        29
+    ],
+    "sikkim": [
+        30
+    ],
+    "tamil": [
+        31
+    ],
+    "nadu": [
+        31
+    ],
+    "telangana": [
+        32
+    ],
+    "tripura": [
+        33
+    ],
+    "uttar": [
+        34
+    ],
+    "uttarakhand": [
+        35
+    ],
+    "west": [
+        36
+    ],
+    "bengal": [
+        36
+    ]
+}
